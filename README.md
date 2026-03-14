@@ -48,9 +48,7 @@
 
 ## 🌐 Live Demo
 
-[Click here to view live]( https://yourusername.github.io/snapdeal-checkout)
-
-> ⚠️ Replace the link above with your actual GitHub Pages URL
+[Click here to view live](https://khushboopingle-coder.github.io/snapdeal-checkout/)
 
 ---
 
