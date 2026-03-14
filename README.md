@@ -56,7 +56,7 @@
 
 ## 🎨 Figma Flow Screenshot
 
-![Snapdeal Checkout Flow](figma snapdeal ss .png)
+![Snapdeal Checkout Flow](<figma snapdeal ss .png>)
 
 ---
 
