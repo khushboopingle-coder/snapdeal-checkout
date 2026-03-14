@@ -48,7 +48,7 @@
 
 ## 🌐 Live Demo
 
-[Click here to view live](https://khushboopingle-coder.github.io/snapdeal-checkout/)
+[Click here to view live]( https://khushboopingle-coder.github.io/snapdeal-checkout/)
 
 ---
 
